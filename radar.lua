@@ -18,8 +18,8 @@ credit - @https://github.com/elitefps find more of my work.
 --]]
 
 -- // roblox
-local localPlayer = Players.LocalPlayer
 local Players = game:GetService("Players")
+local localPlayer = Players.LocalPlayer
 local RunService = game:GetService("RunService")
 local UIS = game:GetService("UserInputService")
 
